@@ -1,0 +1,1 @@
+// js para darle funcionalidad al ver más y que se pinte cada card con su descripcion 

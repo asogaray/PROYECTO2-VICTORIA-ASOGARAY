@@ -1,0 +1,196 @@
+[
+
+    {   "id": "remera01",
+        "imagen": "https://acdn.mitiendanube.com/stores/002/580/475/products/articulo-1632-negro-remera1-7bc08a2dba311671b216953189261641-1024-1024.webp",
+        "categoria":"remeras",
+        "nombre": "Remera DREAM NATION",
+        "descripcion":"descripcion de cada producto",
+        "precio": 8000
+    },
+    {
+        "id": "remera02",
+        "imagen": "https://d3ugyf2ht6aenh.cloudfront.net/stores/002/157/879/products/dsc087371-bd1ef0bcc030f4f0cd16824640717770-640-0.webp",
+        "categoria":"remeras",
+        "nombre": "Remera LOVER´S",
+        "descripcion":"",
+        "precio": 10000
+    },
+    {
+        "id": "remera03",
+        "imagen": "https://i.pinimg.com/564x/3e/ec/53/3eec53b7acf18f37a7f6003d46a3e507.jpg",
+        "categoria":"remeras",
+        "nombre": "Remera LIKE ANGEL",
+        "descripcion":"",
+        "precio": 6000
+    },
+    {
+        "id": "remera04",
+        "imagen": "https://i.pinimg.com/564x/e3/56/10/e356101f8e0a1a657f70037302236421.jpg",
+        "categoria":"remeras",
+        "nombre": "Remera BUTTERFY",
+        "descripcion":"",
+        "precio": 8000
+    },
+    {
+        "id": "remera05",
+        "imagen": "https://i.pinimg.com/564x/0e/3f/58/0e3f581e41e79c22e69f0e8bccb832a7.jpg",
+        "categoria":"remeras",
+        "nombre": "Remera T-DRAGON",
+        "descripcion":"",
+        "precio": 11000
+    },
+    {
+        "id": "remera06",
+        "imagen": "https://i.pinimg.com/564x/fc/c1/28/fcc12890565fd41127ffb5f046a333f5.jpg",
+        "categoria":"remeras",
+        "nombre": "Remera HC",
+        "descripcion":"",
+        "precio": 7000
+    },
+    {
+        "id": "remera07",
+        "imagen": "https://i.pinimg.com/564x/b5/ce/77/b5ce779d73315f05e030a0d241b029c0.jpg",
+        "categoria":"remeras",
+        "nombre": "Remera NOTHING",
+        "descripcion":"",
+        "precio": 8000
+    },
+    {
+        "id": "remera08",
+        "imagen": "https://i.pinimg.com/564x/eb/b6/7e/ebb67eaa0d380249978d690bd365da2a.jpg",
+        "categoria":"remeras",
+        "nombre": "Remera NEW GALAXY",
+        "descripcion":"",
+        "precio": 12000
+    },
+
+    {
+        "id": "jacket01",
+        "imagen": "https://i.pinimg.com/564x/19/b6/55/19b65535d9a96fd8f66b507408992973.jpg",
+        "categoria":"jackets",
+        "nombre": "Jacket RED BULL",
+        "descripcion":"",
+        "precio": 20000
+    },
+    {
+        "id": "jacket02",
+        "imagen": "https://i.pinimg.com/564x/f0/e8/1d/f0e81dfd4c92cc62625deb23db650ef4.jpg",
+        "categoria":"jackets",
+        "nombre": "Jacket M&M",
+        "descripcion":"",
+        "precio": 19900
+    },
+    {
+        "id": "jacket03",
+        "imagen": "https://i.pinimg.com/564x/d6/e0/e7/d6e0e7b5ecd3129f3696c2f6a6c21293.jpg",
+        "categoria":"jackets",
+        "nombre": "Jacket FERRARI",
+        "descripcion":"",
+        "precio": 26000
+    },
+    {
+        "id": "jacket04",
+        "imagen": "https://i.pinimg.com/564x/e8/7d/e9/e87de9ded487d23c1d8d729b8f83a767.jpg",
+        "categoria":"jackets",
+        "nombre": "Jacket BUZZ LIGHTYEAR",
+        "descripcion":"",
+        "precio": 30000
+    },
+    {
+        "id": "jacket05",
+        "imagen": "https://i.pinimg.com/564x/53/64/4f/53644f71ae7b6eb7acf14aa83b8cc786.jpg",
+        "categoria":"jackets",
+        "nombre": "Jacket LOUIS VUITTON",
+        "descripcion":"",
+        "precio": 28000
+    },
+    {
+        "id": "jacket06",
+        "imagen": "https://i.pinimg.com/564x/08/86/2b/08862b5faa48dc02bd7841c1c6e075a5.jpg",
+        "categoria":"jackets",
+        "nombre": "Jacket SUPREME",
+        "descripcion":"",
+        "precio": 23000
+    },
+    {
+        "id": "jacket07",
+        "imagen": "https://i.pinimg.com/564x/dc/7b/c2/dc7bc2ba1740ca283cd056870f01829a.jpg",
+        "categoria":"jackets",
+        "nombre": "Jacket LUCKY",
+        "descripcion":"",
+        "precio": 31000
+    },
+    {
+        "id": "jacket08",
+        "imagen": "https://i.pinimg.com/564x/f7/96/a4/f796a453ac39c63a35656c034413c682.jpg",
+        "categoria":"jackets",
+        "nombre": "Jacket WORLDWIDE",
+        "descripcion":"",
+        "precio": 28000
+    },
+   
+    {
+        "id": "hoodie01",
+        "imagen": "https://i.pinimg.com/564x/e0/13/84/e01384fc6945e4acbde030b59ca0760c.jpg",
+        "categoria":"hoodies",
+        "nombre": "Hoodie LANA DEL REY",
+        "descripcion":"",
+        "precio": 20000
+    },
+    {
+        "id": "hoodie02",
+        "imagen": "https://i.pinimg.com/564x/88/61/d4/8861d4f50dd69c65d1e6e0aaac5deffd.jpg",
+        "categoria":"hoodies",
+        "nombre": "Hoodie OFF-COURT",
+        "descripcion":"",
+        "precio": 18000
+    },
+    {
+        "id": "hoodie03",
+        "imagen": "https://i.pinimg.com/564x/e6/e4/98/e6e4984a9bad9abf29d7f680a10ff4a5.jpg",
+        "categoria":"hoodies",
+        "nombre": "Hoodie WITHLOVE",
+        "descripcion":"",
+        "precio": 16500
+    },
+    {
+        "id": "hoodie04",
+        "imagen": "https://i.pinimg.com/564x/05/4c/e5/054ce50f0c23869ad36595bc0a64a0a8.jpg",
+        "categoria":"hoodies",
+        "nombre": "Hoodie BE YOURSELF",
+        "descripcion":"",
+        "precio": 30000
+    },
+    {
+        "id": "hoodie05",
+        "imagen": "https://i.pinimg.com/564x/b1/bc/22/b1bc228c61ec10529761c80b25526eb1.jpg",
+        "categoria":"hoodies",
+        "nombre": "Hoodie DREAMERS",
+        "descripcion":"",
+        "precio": 28000
+    },
+    {
+        "id": "hoodie06",
+        "imagen": "https://i.pinimg.com/564x/1c/91/ef/1c91eff9010df6395b0cc7e0ee132983.jpg",
+        "categoria":"hoodies",
+        "nombre": "Hoodie PRESENT",
+        "descripcion":"",
+        "precio": 23000
+    },
+    {
+        "id": "hoodie07",
+        "imagen": "https://i.pinimg.com/564x/00/cb/93/00cb93d118476f7460b05c29a98ad4f2.jpg",
+        "categoria":"hoodies",
+        "nombre": "Hoodie MARS",
+        "descripcion":"",
+        "precio": 31000
+    },
+    {
+        "id": "hoodie8",
+        "imagen": "https://i.pinimg.com/564x/f1/2d/db/f12ddb30c71eccf96004bc8eb1dfb4a4.jpg",
+        "categoria":"hoodies",
+        "nombre": "Hoodie CULTURE",
+        "descripcion":"",
+        "precio": 28000
+    }
+]
