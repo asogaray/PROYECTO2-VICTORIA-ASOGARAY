@@ -98,11 +98,3 @@ const contadorCarrito = () => {
 };
 
 contadorCarrito();
-
-
-//alert para avisar que la compra se realizó
-const finalizarCompraButton = document.getElementById('finalizarCompraButton');
-
-    finalizarCompraButton.addEventListener('click', function() {
-        alert('¡Compra finalizada con éxito!');
-    });

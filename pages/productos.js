@@ -14,6 +14,13 @@ const traeProductos = async () => {
     const respuesta = await fetch('data.json');
     const data = await respuesta.json();
 
+    // FILTRAR POR CATEGORIA 
+for (const categoria of categoriasProductos) {
+    // console.log(categoria)
+    categoriasShop.innerHTML += `
+    <a class="item-categoria" id="categoria-${categoria.id}">${categoria.nombre}</a>`
+}    
+
     data.forEach((producto) => {
         //estructura card HTML
         let contenido = document.createElement("div");
@@ -60,14 +67,15 @@ const traeProductos = async () => {
 };
 traeProductos();
 
+//alert para avisar que la compra se realizó
+const finalizarCompraButton = document.getElementById('finalizarCompraButton');
+
+    finalizarCompraButton.addEventListener('click', function() {
+        alert('¡Compra finalizada con éxito!');
+    });
+
 //set item
 const saveLocal = () => {
     localStorage.setItem("carrito", JSON.stringify(carrito));
 }
 
-// FILTRAR POR CATEGORIA 
-for (const categoria of categoriasProductos) {
-        // console.log(categoria)
-        categoriasShop.innerHTML += `
-        <a class="item-categoria" id="categoria-${categoria.id}">${categoria.nombre}</a>`
-}
